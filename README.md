@@ -1,4 +1,4 @@
-# The Vault! 
+# The Vault! 😁
 
 ## For students and instructors of SE NYC 061223. 
 
