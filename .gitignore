@@ -1,0 +1,17 @@
+# Garbage Data Files
+.DS_Store
+*/.DS_Store
+
+# Incomplete Glossaries
+P1-Intro-to-JS/GLOSSARY.md
+P2-Intro-to-React/GLOSSARY.md
+P3-Intro-to-Python/GLOSSARY.md
+P4-Intro-to-Flask/GLOSSARY.md
+P5-Full-Stack-Capstone/GLOSSARY.md
+
+# Incomplete FAQs
+P1-Intro-to-JS/FAQ.md
+P2-Intro-to-React/FAQ.md
+P3-Intro-to-Python/FAQ.md
+P4-Intro-to-Flask/FAQ.md
+P5-Full-Stack-Capstone/FAQ.md
