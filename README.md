@@ -1,3 +1,11 @@
+<p align="center">
+    <a href=""><img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=ffdd54" /></a>
+    <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
+    <a href="https://docs.python.org/3/index.html"><img src="https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+    <a href=""><img src="https://img.shields.io/badge/sql-%2320232a?style=for-the-badge&logo=sqlite&logoColor=%2361DAFB" /></a>
+    <a href=""><img src="https://img.shields.io/badge/flask-%2320232a?style=for-the-badge&logo=flask&logoColor=00000" /></a>
+</p>
+
 <h1 align="center"><b>The Vault</b></h1>
 <h4 align="center">For students of Cohort <b>SE-NYC-061223</b>.</h4>
 
