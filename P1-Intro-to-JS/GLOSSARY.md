@@ -27,10 +27,10 @@ Materials and information (including concept terms and coding topics) critical-t
 | <big>T</big>ERM | <big>D</big>EFINITION | <big>E</big>XAMPLE |
 | :--- | :--: | ---: |
 | ***Variable*** | A value or object that stores some information that can be used at some later point. | `var myVariable = 0` |
-| ***Variable*** | ... | `let anotherVariable = 1` |
-| ***Variable*** | ... | `const yetAnotherVariable = 2` |
+| ***Variable*** | ↳ | `let anotherVariable = 1` |
+| ***Variable*** | ↳ | `const yetAnotherVariable = 2` |
 | ***Function*** | A chunk of coding instructions designed to be executed at some later point in time. | `function myNamedFunction () { ... }` |
-| ***Function*** | ... | `const myNamedArrowFunction = () => { ... }` |
+| ***Function*** | ↳ | `const myNamedArrowFunction = () => { ... }` |
 | ***Method*** | A function uniquely "owned" by a specific object or data structure. | `element.someMethod()` |
 | ***Array*** | A list-like representation of data that can be iterated across. | `let myArray = [1, 2, 3]` |
 | ***Object*** | An abstract model that's used to structure a program and its relevant data and/or instructions to be more modular and reusable. | `let myObject = { greeting: "Hello World" }`
