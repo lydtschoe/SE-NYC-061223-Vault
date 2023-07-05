@@ -28,4 +28,4 @@ To get access to this repository version in an optimal way, you're encouraged to
 
 ## Credits
 
-The **SE-NYC-061223 Vault** is created and maintained by **Aakash "Kash" Sudhakar** and **Daniel Gaston** (2023). 
+The **SE-NYC-061223 Vault** is created and maintained by **Aakash "Kash" Sudhakar**, **Daniel Gaston**, and **Sakib Rasul**. (2023). 
